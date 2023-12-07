@@ -1,4 +1,4 @@
- function{onEdit}
+function onEdit(event){
  // assumes source data in sheet named Master Task List
   // target sheet of move to named Completed Tasks
   // getColumn with check-boxes is currently set to column 8 or H
